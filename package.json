@@ -1,0 +1,24 @@
+{
+  "name": "boi-parser",
+  "version": "0.0.1",
+  "description": "boi parser",
+  "main": "lib/index.js",
+  "scripts": {
+    "lint": "eslint lib",
+    "test": "mocha test/index"
+  },
+  "keywords": [
+    "boi",
+    "webpack"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:boijs/boi-parser.git"
+  },
+  "author": "zhoujunpeng <zjp0432@163.com> (http://caiziguoguo.com)",
+  "license": "MIT",
+  "dependencies": {
+    "boi-utils": "^0.0.3",
+    "lodash": "^4.17.4"
+  }
+}
