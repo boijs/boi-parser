@@ -1,6 +1,6 @@
 {
   "name": "boi-parser",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "boi parser",
   "main": "lib/index.js",
   "scripts": {
@@ -18,7 +18,7 @@
   "author": "zhoujunpeng <zjp0432@163.com> (http://caiziguoguo.com)",
   "license": "MIT",
   "dependencies": {
-    "boi-utils": "^0.0.3",
+    "boi-utils": "latest",
     "lodash": "^4.17.4"
   }
 }
